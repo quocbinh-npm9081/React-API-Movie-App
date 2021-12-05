@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/React-API-Movie-App.git/static/css/main.c3cdc873.chunk.css",
-    "main.js": "/React-API-Movie-App.git/static/js/main.dc6ad57c.chunk.js",
-    "main.js.map": "/React-API-Movie-App.git/static/js/main.dc6ad57c.chunk.js.map",
-    "runtime-main.js": "/React-API-Movie-App.git/static/js/runtime-main.d12713f3.js",
-    "runtime-main.js.map": "/React-API-Movie-App.git/static/js/runtime-main.d12713f3.js.map",
-    "static/css/2.dde13ac0.chunk.css": "/React-API-Movie-App.git/static/css/2.dde13ac0.chunk.css",
-    "static/js/2.23058c9a.chunk.js": "/React-API-Movie-App.git/static/js/2.23058c9a.chunk.js",
-    "static/js/2.23058c9a.chunk.js.map": "/React-API-Movie-App.git/static/js/2.23058c9a.chunk.js.map",
-    "index.html": "/React-API-Movie-App.git/index.html",
-    "static/css/2.dde13ac0.chunk.css.map": "/React-API-Movie-App.git/static/css/2.dde13ac0.chunk.css.map",
-    "static/css/main.c3cdc873.chunk.css.map": "/React-API-Movie-App.git/static/css/main.c3cdc873.chunk.css.map",
-    "static/js/2.23058c9a.chunk.js.LICENSE.txt": "/React-API-Movie-App.git/static/js/2.23058c9a.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/React-API-Movie-App.git/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.67e95f05.jpg": "/React-API-Movie-App.git/static/media/footer-bg.67e95f05.jpg",
-    "static/media/tmovie.67797e94.png": "/React-API-Movie-App.git/static/media/tmovie.67797e94.png"
+    "main.css": "/React-API-Movie-App/static/css/main.259da12a.chunk.css",
+    "main.js": "/React-API-Movie-App/static/js/main.dc6ad57c.chunk.js",
+    "main.js.map": "/React-API-Movie-App/static/js/main.dc6ad57c.chunk.js.map",
+    "runtime-main.js": "/React-API-Movie-App/static/js/runtime-main.4eae3043.js",
+    "runtime-main.js.map": "/React-API-Movie-App/static/js/runtime-main.4eae3043.js.map",
+    "static/css/2.dde13ac0.chunk.css": "/React-API-Movie-App/static/css/2.dde13ac0.chunk.css",
+    "static/js/2.23058c9a.chunk.js": "/React-API-Movie-App/static/js/2.23058c9a.chunk.js",
+    "static/js/2.23058c9a.chunk.js.map": "/React-API-Movie-App/static/js/2.23058c9a.chunk.js.map",
+    "index.html": "/React-API-Movie-App/index.html",
+    "static/css/2.dde13ac0.chunk.css.map": "/React-API-Movie-App/static/css/2.dde13ac0.chunk.css.map",
+    "static/css/main.259da12a.chunk.css.map": "/React-API-Movie-App/static/css/main.259da12a.chunk.css.map",
+    "static/js/2.23058c9a.chunk.js.LICENSE.txt": "/React-API-Movie-App/static/js/2.23058c9a.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/React-API-Movie-App/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/React-API-Movie-App/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/React-API-Movie-App/static/media/tmovie.67797e94.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.d12713f3.js",
+    "static/js/runtime-main.4eae3043.js",
     "static/css/2.dde13ac0.chunk.css",
     "static/js/2.23058c9a.chunk.js",
-    "static/css/main.c3cdc873.chunk.css",
+    "static/css/main.259da12a.chunk.css",
     "static/js/main.dc6ad57c.chunk.js"
   ]
 }
