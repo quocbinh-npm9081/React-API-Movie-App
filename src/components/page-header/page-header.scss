@@ -1,0 +1,23 @@
+@use '../../scss/variables' as *;
+.page-header {
+    padding: $header-height 0 2rem;
+    text-align: center;
+    margin-bottom: 2rem;
+    position: relative;
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    h2 {
+        position: relative;
+        z-index: 99;
+    }
+    &::after {
+        content: " ";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        background-image: linear-gradient(to top, $body-bg, rgba($black, 0));
+    }
+}
