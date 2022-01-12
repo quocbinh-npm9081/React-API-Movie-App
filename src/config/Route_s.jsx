@@ -21,7 +21,7 @@ function Route_s() {
                     element={<Catalog/>}
                     />
                 <Route
-                    path = '/'
+                    path = '/React-API-Movie-App'
                     exact
                     element={<Home/>}
                 />

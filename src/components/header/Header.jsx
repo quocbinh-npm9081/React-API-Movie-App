@@ -6,7 +6,7 @@ import { Link, useLocation} from 'react-router-dom';
 const headerNav = [
     {
         display: 'Home',
-        path: '/'
+        path: '/React-API-Movie-App'
 
     },
     {
@@ -42,7 +42,7 @@ const Header = () => {
                 <div className="header__wrap container">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">BMovies</Link>
+                        <Link to="/React-API-Movie-App">BMovies</Link>
                     </div>
                     <div>
                     <ul className="header__nav">
